@@ -4,24 +4,18 @@ Documenting my cybersecurity learning journey through TryHackMe hands-on labs.
 
 ## Completed Rooms
 
+- Search Skills
 - Offensive Security Intro
 - Defensive Security Intro
 
-## Currently Learning
+## Current Path
 
-- Cyber Security 101 Path
+Cyber Security 101
 
 ## Topics
 
-- Linux fundamentals
-- Networking
-- Security fundamentals
-- Offensive security concepts
-- Defensive security concepts
-
-## Tools
-
+- Cybersecurity fundamentals
+- Offensive security
+- Defensive security
 - Linux
-- Nmap
-- Wireshark
-- Command Line
+- Networking

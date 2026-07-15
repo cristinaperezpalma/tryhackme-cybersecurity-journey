@@ -2,20 +2,20 @@
 
 Documenting my cybersecurity learning journey through TryHackMe hands-on labs.
 
+## Progress
+
+Cyber Security 101 Path  
+Status: In progress
+
 ## Completed Rooms
 
 - Search Skills
 - Offensive Security Intro
 - Defensive Security Intro
 
-## Current Path
-
-Cyber Security 101
-
-## Topics
+## Topics Covered
 
 - Cybersecurity fundamentals
-- Offensive security
-- Defensive security
-- Linux
-- Networking
+- Offensive security concepts
+- Defensive security concepts
+- Security workflows

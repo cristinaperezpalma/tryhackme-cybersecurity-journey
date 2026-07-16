@@ -1,54 +1,44 @@
 # TryHackMe Cybersecurity Journey
 
-Documenting my cybersecurity learning journey through hands-on labs and practical exercises using TryHackMe.
+Documenting my cybersecurity learning journey through hands-on labs and practical exercises.
 
-This repository contains my notes, concepts and key learnings while developing my cybersecurity skills, with a focus on security fundamentals, Linux, networking and security operations.
-
----
-
-## Progress
-
-### Cyber Security 101 Path
-
-**Status:** In progress 🔄
+This repository contains my notes and key learnings while developing skills in cybersecurity, Linux, networking and security operations.
 
 ---
 
-## Completed Topics
+## Learning Path
 
-### Cybersecurity Fundamentals
+### 01 - Cyber Security 101
+Status: In progress 🔄
 
-- Search Skills
-- Offensive Security Intro
-- Defensive Security Intro
-
----
-
-## Topics Covered
-
-- Cybersecurity fundamentals
-- Offensive security concepts
-- Defensive security concepts
-- Security workflows
-- Security principles
-- Linux fundamentals (in progress)
+Topics:
+- Offensive Security fundamentals
+- Defensive Security fundamentals
+- Linux fundamentals
 
 ---
 
-## Learning Goals
+### 02 - SOC Level 1
+Status: Planned
 
-Continue developing practical cybersecurity skills in areas such as:
-
-- Security Operations (SOC)
-- SIEM and log analysis
+Topics:
+- SOC operations
+- SIEM
+- Log analysis
 - Incident response
-- Network security
-- Threat detection
 
 ---
 
-## Platform
+### 03 - SOC Level 2
+Status: Planned
 
-TryHackMe
+Topics:
+- Threat hunting
+- Advanced investigations
+- Security monitoring
 
-Part of my personal cybersecurity learning journey.
+---
+
+## Goal
+
+Build a strong foundation for a future role in cybersecurity, especially Security Operations and defensive security.

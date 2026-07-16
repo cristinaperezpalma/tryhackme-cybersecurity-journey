@@ -11,10 +11,17 @@ This repository contains my notes and key learnings while developing skills in c
 ### 01 - Cyber Security 101
 Status: In progress 🔄
 
-Topics:
-- Offensive Security fundamentals
-- Defensive Security fundamentals
+Topics covered:
+
+- Cybersecurity fundamentals
+- Offensive security fundamentals
+- Defensive security fundamentals
 - Linux fundamentals
+- Networking fundamentals
+- Windows and Active Directory
+- Web security and OWASP Top 10
+- Cryptography
+- Security tools
 
 ---
 

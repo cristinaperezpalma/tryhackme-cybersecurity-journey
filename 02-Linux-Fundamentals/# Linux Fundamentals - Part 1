@@ -1,0 +1,63 @@
+# Linux Fundamentals - Part 1
+
+## Overview
+
+This learning module covers the fundamentals of the Linux operating system, including filesystem navigation, file management, user permissions, command-line usage, file searching and shell operators.
+
+These skills provide a foundation for Linux system administration, cybersecurity and security operations.
+
+---
+
+## Topics Covered
+
+### Linux Basics
+
+- Understanding the Linux operating system
+- Navigating the filesystem
+- Absolute and relative paths
+- Common Linux directories
+
+---
+
+### File and Directory Management
+
+- Creating files and directories
+- Copying, moving and deleting files
+- Viewing file contents
+- Managing file permissions
+
+---
+
+### File Searching
+
+- Searching files using `find`
+- Searching by filename
+- Searching by extension
+- Performing recursive searches
+
+---
+
+### Text Searching
+
+- Searching text using `grep`
+- Recursive searches with `grep -R`
+- Finding specific values inside files
+
+---
+
+### Shell Operators
+
+- Background execution (`&`)
+- Conditional execution (`&&`)
+- Output redirection (`>`)
+- Append output (`>>`)
+
+---
+
+## Practical Examples
+
+### File Searching
+
+```bash
+find -name passwords.txt
+find -name "*.txt"
